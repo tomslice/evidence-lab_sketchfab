@@ -17,7 +17,7 @@ client.init(uid, {
   transparent: 0, // Usage: Setting to 1 will make the model's background transparent
   ui_animations: 0, // Usage: Setting to 0 will hide the animation menu and timeline.
   ui_annotations: 0, // Usage: Setting to 0 will hide the Annotation menu.
-  ui_controls: 1, // Usage: Setting to 0 will hide all the viewer controls at the bottom of the viewer (Help, Settings, Inspector, VR, Fullscreen, Annotations, and Animations).
+  ui_controls: 0, // Usage: Setting to 0 will hide all the viewer controls at the bottom of the viewer (Help, Settings, Inspector, VR, Fullscreen, Annotations, and Animations).
   ui_fullscreen: 1, // Usage: Setting to 0 will hide the Fullscreen button.
   ui_general_controls: 1, // Usage: Setting to 0 will hide main control buttons in the bottom right of the viewer (Help, Settings, Inspector, VR, Fullscreen).
   ui_help: 0, // Usage: Setting to 0 will hide the Help button.
