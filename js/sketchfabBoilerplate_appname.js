@@ -1,6 +1,6 @@
 
 var version = '1.9.0';
-var uid = 'de734841b0fd4cf4aa03c0e37758fd43';
+var uid = '6ee4af2c22c54f7fb445df11552a226d';
 var iframe = document.getElementById('api-frame');
 var client = new window.Sketchfab(version, iframe);
 client.init(uid, {
